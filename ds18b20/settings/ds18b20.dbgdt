@@ -61,7 +61,7 @@
             <Factory>Workspace</Factory>
             <Session>
               <NodeDict>
-                <ExpandedNode>q</ExpandedNode>
+                <ExpandedNode>ds18b20</ExpandedNode>
               </NodeDict>
             </Session>
           </Tab>

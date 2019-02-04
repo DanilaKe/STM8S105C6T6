@@ -12,7 +12,7 @@
       <file>$PROJ_DIR$\main.c</file>
       <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
       <file>$TOOLKIT_DIR$\lib\dbgstm8smd.a</file>
-      <file>$PROJ_DIR$\Debug\Obj\q.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\ds18b20.pbd</file>
       <file>$PROJ_DIR$\Debug\Exe\templproj.out</file>
       <file>$TOOLKIT_DIR$\inc\iostm8s105c6.h</file>
       <file>$TOOLKIT_DIR$\config\lnkstm8s105c6.icf</file>
